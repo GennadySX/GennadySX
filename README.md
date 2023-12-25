@@ -29,6 +29,6 @@
 
 ### 🪩 You can find me in:
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/GennadySX)&nbsp;
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://leetcode.com/GennadySX)&nbsp;
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7770973/gennady-sabirovsky)&nbsp;
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=grey)](https://www.codewars.com/users/GennadySX)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://meduim.com/gennadysx)
