@@ -14,7 +14,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=black)&nbsp;
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)&nbsp;
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat&logo=apple&logoColor=white)&nbsp;
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)&nbsp;
 
 ![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql&logoColor=663399)&nbsp;
