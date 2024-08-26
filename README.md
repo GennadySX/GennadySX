@@ -26,7 +26,9 @@
 
 
 <br/>
+[![wakatime](https://wakatime.com/badge/user/018c4f6c-8837-42be-91bc-5c79ed9c18be.svg)](https://wakatime.com/@018c4f6c-8837-42be-91bc-5c79ed9c18be)
 
+<br/>
 
 ### 🪩 You can find me in:
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/GennadySX)&nbsp;
